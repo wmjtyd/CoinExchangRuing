@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="cloud:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b814b62b-d8c4-4aa3-8b4b-0a120315bb6d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.old.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange-api/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exchange/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/maven-command-list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/run-config.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/service-run-config.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/market/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otc-api/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucenter-api/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallet/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud/src/main/java/com/bizzan/bitrade/CloudApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud/src/main/java/com/bizzan/bitrade/CloudApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Web_Admin/build/env.js" beforeDir="false" afterPath="$PROJECT_DIR$/../04_Web_Admin/build/env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04_Web_Admin/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Web_Front/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Web_Front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Web_Front/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.18.RELEASE/spring-data-mongodb-1.10.18.RELEASE.jar!/org/springframework/data/mongodb/UncategorizedMongoDbException.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="dev" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FZYU7mcf52ncJMgG11QgiIBGgw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/dianfengyang/Documents/project/java/CoinExchange/00_framework/chat",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chat" />
+      <recent name="$PROJECT_DIR$/wallet" />
+      <recent name="$PROJECT_DIR$/ucenter-api" />
+      <recent name="$PROJECT_DIR$/otc-api" />
+      <recent name="$PROJECT_DIR$/market" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cloud" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Remote JVM Debug.coin-cloud">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coin-chat" type="Remote">
+      <module name="chat" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="192.168.31.172" />
+      <option name="PORT" value="8505" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2">
+        <option name="com.intellij.docker.debug.DockerBeforeRunTask" command="java -Xms512m -Xmx512m -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=8505 -jar chat.jar" run-config="coin-chat" />
+      </method>
+    </configuration>
+    <configuration name="coin-cloud" type="Remote">
+      <module name="cloud" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="192.168.31.172" />
+      <option name="PORT" value="8501" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5599" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="com.intellij.docker.debug.DockerBeforeRunTask" command="java -Xms512m -Xmx512m -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=8501 -jar cloud.jar" run-config="coin-cloud" />
+      </method>
+    </configuration>
+    <configuration name="coin-exchange-api" type="Remote">
+      <module name="exchange-api" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="192.168.31.172" />
+      <option name="PORT" value="8503" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2">
+        <option name="com.intellij.docker.debug.DockerBeforeRunTask" command="java -Xms512m -Xmx512m -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=8503 -jar exchange-api.jar" run-config="coin-exchange-api" />
+      </method>
+    </configuration>
+    <configuration name="coin-exchange" type="Remote">
+      <module name="exchange" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="192.168.31.172" />
+      <option name="PORT" value="8504" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2">
+        <option name="com.intellij.docker.debug.DockerBeforeRunTask" command="java -Xms512m -Xmx512m -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=8504 -jar exchange.jar" run-config="coin-exchange" />
+      </method>
+    </configuration>
+    <configuration name="coin-market" type="Remote">
+      <module name="market" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="192.168.31.172" />
+      <option name="PORT" value="8502" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2">
+        <option name="com.intellij.docker.debug.DockerBeforeRunTask" command="jar -Xms512m -Xmx512m -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=8501 -jar market.jar" run-config="coin-market" />
+      </method>
+    </configuration>
+    <configuration name="coin-ucenter-api" type="Remote">
+      <module name="ucenter-api" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="192.168.31.172" />
+      <option name="PORT" value="8506" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2">
+        <option name="com.intellij.docker.debug.DockerBeforeRunTask" command="java -Xms512m -Xmx512m -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=8506 -jar ucenter-api.jar" run-config="coin-ucenter-api" />
+      </method>
+    </configuration>
+    <configuration name="coin-wallet" type="Remote">
+      <module name="wallet" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="192.168.31.172" />
+      <option name="PORT" value="8507" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2">
+        <option name="com.intellij.docker.debug.DockerBeforeRunTask" command="java -Xms512m -Xmx512m -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=8507 -jar wallet.jar" run-config="coin-wallet" />
+      </method>
+    </configuration>
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bizzan.bitrade.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="otc-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bizzan.bitrade.ApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chat" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bizzan.bitrade.ChatApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="cloud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bizzan.bitrade.CloudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExchangeApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="exchange-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bizzan.bitrade.ExchangeApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExchangeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="exchange" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bizzan.bitrade.ExchangeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="market" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bizzan.bitrade.MarketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ucenter-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bizzan.bitrade.UcenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WalletApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="wallet" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bizzan.bitrade.WalletApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coin-chat" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="attachToContainerNeeded" value="true" />
+          <option name="containerName" value="coin-chat" />
+          <option name="contextFolderPath" value="chat/target" />
+          <option name="commandLineOptions" value="--network coin --network-alias chat.coin" />
+          <option name="sourceFilePath" value="cloud/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/chat/pom.xml" goal="compile -P dev package" />
+      </method>
+    </configuration>
+    <configuration name="coin-cloud" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="attachToContainerNeeded" value="true" />
+          <option name="containerName" value="coin-cloud" />
+          <option name="contextFolderPath" value="cloud/target" />
+          <option name="commandLineOptions" value="--network coin --network-alias cloud.coin" />
+          <option name="sourceFilePath" value="cloud/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/cloud/pom.xml" goal="compile -P dev package" />
+      </method>
+    </configuration>
+    <configuration name="coin-exchange-api" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="attachToContainerNeeded" value="true" />
+          <option name="containerName" value="coin-exchange-api" />
+          <option name="contextFolderPath" value="exchange-api/target" />
+          <option name="commandLineOptions" value="--network coin --network-alias exchange-api.coin" />
+          <option name="sourceFilePath" value="exchange-api/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/exchange-api/pom.xml" goal="compile -P dev package" />
+      </method>
+    </configuration>
+    <configuration name="coin-exchange" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="attachToContainerNeeded" value="true" />
+          <option name="containerName" value="coin-exchange" />
+          <option name="contextFolderPath" value="exchange/target" />
+          <option name="commandLineOptions" value="--network coin --network-alias cloud.coin" />
+          <option name="sourceFilePath" value="exchange/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/exchange/pom.xml" goal="compile -P dev package" />
+      </method>
+    </configuration>
+    <configuration name="coin-market" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="attachToContainerNeeded" value="true" />
+          <option name="containerName" value="coin-market" />
+          <option name="contextFolderPath" value="market/target" />
+          <option name="commandLineOptions" value="--network coin --network-alias market.coin" />
+          <option name="sourceFilePath" value="market/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/market/pom.xml" goal="compile -P dev package" />
+      </method>
+    </configuration>
+    <configuration name="coin-ucenter-api" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="attachToContainerNeeded" value="true" />
+          <option name="containerName" value="coin-ucenter-api" />
+          <option name="contextFolderPath" value="ucenter-api/target" />
+          <option name="commandLineOptions" value="--network coin --network-alias ucenter-api.coin" />
+          <option name="sourceFilePath" value="cloud/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/ucenter-api/pom.xml" goal="compile -P dev package" />
+      </method>
+    </configuration>
+    <configuration name="coin-wallet" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="attachToContainerNeeded" value="true" />
+          <option name="containerName" value="coin-wallet" />
+          <option name="contextFolderPath" value="wallet/target" />
+          <option name="commandLineOptions" value="--network coin --network-alias wallet.coin" />
+          <option name="sourceFilePath" value="cloud/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/wallet/pom.xml" goal="compile -P dev package" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Docker.coin-cloud" />
+      <item itemvalue="Docker.coin-market" />
+      <item itemvalue="Docker.coin-exchange-api" />
+      <item itemvalue="Docker.coin-exchange" />
+      <item itemvalue="Docker.coin-chat" />
+      <item itemvalue="Docker.coin-ucenter-api" />
+      <item itemvalue="Docker.coin-wallet" />
+      <item itemvalue="Remote JVM Debug.coin-cloud" />
+      <item itemvalue="Remote JVM Debug.coin-market" />
+      <item itemvalue="Remote JVM Debug.coin-exchange-api" />
+      <item itemvalue="Remote JVM Debug.coin-exchange" />
+      <item itemvalue="Remote JVM Debug.coin-chat" />
+      <item itemvalue="Remote JVM Debug.coin-ucenter-api" />
+      <item itemvalue="Remote JVM Debug.coin-wallet" />
+      <item itemvalue="Spring Boot.AdminApplication" />
+      <item itemvalue="Spring Boot.ApiApplication" />
+      <item itemvalue="Spring Boot.ChatApplication" />
+      <item itemvalue="Spring Boot.CloudApplication" />
+      <item itemvalue="Spring Boot.ExchangeApiApplication" />
+      <item itemvalue="Spring Boot.ExchangeApplication" />
+      <item itemvalue="Spring Boot.MarketApplication" />
+      <item itemvalue="Spring Boot.UcenterApplication" />
+      <item itemvalue="Spring Boot.WalletApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b814b62b-d8c4-4aa3-8b4b-0a120315bb6d" name="Changes" comment="" />
+      <created>1664701086295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664701086295</updated>
+      <workItem from="1665136898658" duration="7784000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud/src/main/java/com/bizzan/bitrade/CloudApplication.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cloud/src/main/java/com/bizzan/bitrade/CloudApplication.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
