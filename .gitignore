@@ -5,3 +5,12 @@
 *.iml
 
 .DS_Store
+00_framework/mongodb
+.gitignore
+00_framework/port.sh
+00_framework/mysql
+00_framework/lport.sh
+00_framework/kafka
+00_framework/redis
+00_framework/run.sh
+00_framework/.idea/workspace.xml
